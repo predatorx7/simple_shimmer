@@ -1,3 +1,7 @@
-## 0.0.1
+## 0.1.0
 
-* TODO: Describe initial release.
+- Add package code
+
+## 0.1.0+1
+
+- Fix media link in README

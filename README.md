@@ -12,7 +12,7 @@ A simple widget with customizable shimmer-like fade animation between 2 colors f
 
 Just add a `SimpleShimmer()` widget anywhere in your UI.
 
-![Recording of simple shimmer](media/recording.gif)
+![Recording of simple shimmer](https://raw.githubusercontent.com/predatorx7/simple_shimmer/main/media/recording.gif)
 
 ## Customization
 

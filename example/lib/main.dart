@@ -59,12 +59,11 @@ class Example extends StatelessWidget {
           ),
           SimpleShimmerTheme.merge(
             data: ShimmerThemeData(
-              baseColor: Colors.red,
-              highlightColor: Colors.red.shade200,
-              decoration: ShimmerDecoration(
-                borderRadius: BorderRadius.circular(20),
-              )
-            ),
+                baseColor: Colors.red,
+                highlightColor: Colors.red.shade200,
+                decoration: ShimmerDecoration(
+                  borderRadius: BorderRadius.circular(20),
+                )),
             child: const Row(
               children: [
                 Expanded(

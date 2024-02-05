@@ -1,7 +1,7 @@
 name: simple_shimmer
 description: A simple widget with customizable shimmer-like fade animation between colors for skeleton screens
-version: 0.1.0
-repository: github.com/predatorx7/simple_shimmer
+version: 0.1.0+1
+repository: https://github.com/predatorx7/simple_shimmer
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
